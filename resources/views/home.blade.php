@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    {{ __('Welcom to Larave AWS App!') }}
                 </div>
             </div>
         </div>
